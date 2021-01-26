@@ -1,5 +1,5 @@
 # 2Take1SChTranslation
-This is 2Take1Menu latest simplified Chinese translation
+This is 2Take1Menu and 2Take1Script simplified Chinese translation
 
 There may be many mistakes in the first edition. Please give me your opinions.
 
