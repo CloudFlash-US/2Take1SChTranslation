@@ -1,7 +1,7 @@
 # 2Take1SChTranslation
 This is 2Take1Menu and 2Take1Script simplified Chinese translation
 
-There may be many mistakes in the first edition. Please give me your opinions.
+Please give me your opinions.
 
 Before using this translation file, Please change the font to suit simplified Chinese.(Because fw1 has been officially deleted)
 
